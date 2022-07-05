@@ -32,6 +32,8 @@ const App = () => {
     console.log(expense);
   };
 
+  //Under the hood what React looks like:
+
   // return React.createElement(
   //   "div",
   //   {},
