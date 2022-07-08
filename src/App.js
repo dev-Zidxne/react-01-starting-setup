@@ -47,7 +47,6 @@ const App = () => {
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
-      <ExpensesFilter />
     </div>
   );
 };

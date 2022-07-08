@@ -5,6 +5,13 @@
   margin-bottom: 1rem;
   text-align: left;
 }
+.new-expense__controls-add {
+  display: none;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
 
 .new-expense__control label {
   font-weight: bold;
